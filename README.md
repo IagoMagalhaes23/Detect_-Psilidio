@@ -1,1 +1,1 @@
-# Detect_-Psil-dio
+# Detector de Psilidio em goiabeiras
