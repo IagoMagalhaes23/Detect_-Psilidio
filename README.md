@@ -15,6 +15,8 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 - Aplicar algoritmo de Grad CAM para visualização de áreas utilizadas pela rede para classificação;
 - Desenvolvimento de um APP simples para aquisição de imagens e exibição de resultados.
 
+## Dataset
+
 ## Trabalhos relacionados
 
 ## Metodologia
@@ -24,5 +26,5 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 ## Conclusão
 
 ## Links úteis
-- [Overleaf]()
+- [Overleaf](https://www.overleaf.com/6564786631gxyfgcwkvtrk#edd727)
 
