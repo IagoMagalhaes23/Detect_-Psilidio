@@ -28,4 +28,5 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 
 ## Links úteis
 - [Overleaf](https://www.overleaf.com/6564786631gxyfgcwkvtrk#edd727)
+- [Roboflow]()
 
