@@ -18,7 +18,18 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 ## Dataset
 - Original
 - Editado
-## Trabalhos relacionados
+
+## Roteiro de atividades
+- [x] Coleta do dataset
+- [x] Marcação dos das folhas doentes com Roboflow
+- [ ] Estrutura para leitura das imagens
+- [ ] Reprodução dos algortimos para classificação de imagens
+- [ ] Análise de técnicas para expansão dos dados
+- [ ] Análise dos resultados
+- [ ] Utilização do GradCAM para rede com melhor desempenho
+- [ ] Implementação do APP com melhor resultado
+
+## Fluxograma de trabalho
 
 ## Metodologia
 
