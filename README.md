@@ -22,7 +22,7 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 ## Roteiro de atividades
 - [x] Coleta do dataset
 - [x] Marcação dos das folhas doentes com Roboflow
-- [ ] Estrutura para leitura das imagens
+- [x] Estrutura para leitura das imagens
 - [ ] Reprodução dos algortimos para classificação de imagens
 - [ ] Análise de técnicas para expansão dos dados
 - [ ] Análise dos resultados
