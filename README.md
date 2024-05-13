@@ -26,10 +26,11 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 - [ ] Reprodução dos algortimos para classificação de imagens
 - [ ] Análise de técnicas para expansão dos dados
 - [ ] Análise dos resultados
-- [ ] Utilização do GradCAM para rede com melhor desempenho
+- [ ] Utilização do EigenCAM para rede com melhor desempenho
 - [ ] Implementação do APP com melhor resultado
 
 ## Fluxograma de trabalho
+<img src="assets/Fluxograma de projeto.png">
 
 ## Metodologia
 
