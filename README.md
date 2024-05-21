@@ -11,7 +11,7 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 ### Objetivos especificos
 - Montar dataset com imagens de folhas de goiabeira que sofreram ataque de psilidios;
 - Avaliar melhores técnicas para expansão de dataset;
-- Avaliar desempenho das redes CNN: Yolo V5, Yolo V7, Yolo V8, Yolo V9, Yolo NAS, Detectron 2 e ViT;
+- Avaliar desempenho das redes CNN: Yolo V5, Yolo V8, Yolo V9, Yolo NAS, Detectron 2 e ViT;
 - Aplicar algoritmo de Grad CAM para visualização de áreas utilizadas pela rede para classificação;
 - Desenvolvimento de um APP simples para aquisição de imagens e exibição de resultados.
 
@@ -26,7 +26,7 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 - [x] Reprodução dos algortimos para classificação de imagens
 - [ ] Análise de técnicas para expansão dos dados
 - [ ] Análise dos resultados
-- [ ] Utilização do EigenCAM para rede com melhor desempenho
+- [X] Utilização do EigenCAM para rede com melhor desempenho
 - [ ] Implementação do APP com melhor resultado
 
 ## Fluxograma de trabalho
