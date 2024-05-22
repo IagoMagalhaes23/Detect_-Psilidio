@@ -33,6 +33,12 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 <img src="assets/Fluxograma de projeto.png">
 
 ## Metodologia
+Avaliar desempenho dos modelos com base nas métricas:
+- IoU
+- mAP (mean average precision)
+- precision
+- recall
+- Curva de PR
 
 ## Resultados
 
