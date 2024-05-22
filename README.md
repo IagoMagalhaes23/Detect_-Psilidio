@@ -39,6 +39,7 @@ Avaliar desempenho dos modelos com base nas métricas:
 - precision
 - recall
 - Curva de PR
+- Distância de Hausdorff
 
 ## Resultados
 
