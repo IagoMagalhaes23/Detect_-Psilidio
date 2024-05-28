@@ -27,7 +27,6 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 - [ ] Análise de técnicas para expansão dos dados
 - [ ] Análise dos resultados
 - [X] Utilização do EigenCAM para rede com melhor desempenho
-- [ ] Implementação do APP com melhor resultado
 
 ## Fluxograma de trabalho
 <img src="assets/Fluxograma de projeto.png">
