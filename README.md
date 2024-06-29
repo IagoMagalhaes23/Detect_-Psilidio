@@ -24,7 +24,6 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 - [x] Marcação dos das folhas doentes com Roboflow
 - [x] Estrutura para leitura das imagens
 - [x] Reprodução dos algortimos para classificação de imagens
-- [ ] Análise de técnicas para expansão dos dados
 - [ ] Análise dos resultados
 - [X] Utilização do EigenCAM para rede com melhor desempenho
 
