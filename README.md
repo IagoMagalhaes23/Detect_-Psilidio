@@ -37,7 +37,6 @@ Avaliar desempenho dos modelos com base nas métricas:
 - Precisão média média (mAP): A mAP alarga o conceito de AP calculando os valores médios de AP em várias classes de objectos. Isto é útil em cenários de deteção de objectos multi-classe para fornecer uma avaliação abrangente do desempenho do modelo.
 - Precisão e recuperação: A precisão quantifica a proporção de verdadeiros positivos entre todas as previsões positivas, avaliando a capacidade do modelo de evitar falsos positivos. Por outro lado, o Recall calcula a proporção de verdadeiros positivos entre todos os positivos reais, medindo a capacidade do modelo de detetar todas as instâncias de uma classe.
 - Pontuação F1: A pontuação F1 é a média harmónica da precisão e da recuperação, fornecendo uma avaliação equilibrada do desempenho de um modelo, considerando tanto os falsos positivos como os falsos negativos.
-- AP (Precisão média)
 - Curva de precisão-recuperação (PR_curve.png): Uma visualização integral para qualquer problema de classificação, esta curva mostra os compromissos entre a precisão e a recuperação em limites variados. Torna-se especialmente significativa quando lida com classes desequilibradas.
 - P (Precisão): A precisão dos objectos detectados, indicando quantas detecções estavam correctas.
 - R (Recall): A capacidade do modelo para identificar todas as instâncias de objectos nas imagens.
@@ -51,4 +50,4 @@ Avaliar desempenho dos modelos com base nas métricas:
 ## Links úteis
 - [Overleaf](https://www.overleaf.com/6564786631gxyfgcwkvtrk#edd727)
 - [Roboflow](https://universe.roboflow.com/mucosas/psilidios-em-goiabeiras)
-- - [YOLO Métricas de desempenho](https://docs.ultralytics.com/pt/guides/yolo-performance-metrics/#conclusion)
+- [YOLO Métricas de desempenho](https://docs.ultralytics.com/pt/guides/yolo-performance-metrics/#conclusion)
