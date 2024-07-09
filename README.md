@@ -45,6 +45,10 @@ Avaliar desempenho dos modelos com base nas métricas:
 
 ## Conclusão
 
+## Autores
+- [Iago Magalhães](https://github.com/IagoMagalhaes23)
+- [Larissa Rodrigues](https://larissafrodrigues.github.io/)
+
 ## Links úteis
 - [Overleaf](https://www.overleaf.com/6564786631gxyfgcwkvtrk#edd727)
 - [Roboflow](https://universe.roboflow.com/mucosas/psilidios-em-goiabeiras)
