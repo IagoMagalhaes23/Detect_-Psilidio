@@ -19,6 +19,9 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 - Original
 - Editado
 
+## Como usar
+- 
+
 ## Roteiro de atividades
 - [x] Coleta do dataset
 - [x] Marcação dos das folhas doentes com Roboflow
