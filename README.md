@@ -16,8 +16,8 @@ O seguinte projeto visa desenvolver um detector de objetos para identificação 
 - Desenvolvimento de um APP simples para aquisição de imagens e exibição de resultados.
 
 ## Dataset
-- Original
-- Editado
+- [Original]()
+- [Editado]()
 
 ## Como usar
 - 
