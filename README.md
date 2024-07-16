@@ -45,7 +45,7 @@ Avaliar desempenho dos modelos com base nas métricas:
 - mAP50-95: A média da precisão média calculada em diferentes limiares de IoU, variando de 0,50 a 0,95. Dá uma visão abrangente do desempenho do modelo em diferentes níveis de dificuldade de deteção.
 
 ## Resultados
-
+Colocar resultados aqui
 ## Conclusão
 
 ## Autores
