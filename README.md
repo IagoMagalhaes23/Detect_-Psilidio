@@ -4,10 +4,8 @@
 O seguinte projeto visa desenvolver um detector de objetos para identificação de ataque de psilidios em goiabeiras. Buscando identificar áreas atigindas (folhas) por estes insetos e classificar se ou ocorreu ou não ataque. Assim, será possível auxiliar produtores na identificação desta praga de forma automatizada.
 
 ## Objetivos
-
 ### Objetivo Geral
 - Desenvolver um aplicativo para identificação de ataque de psilidos em goiabeiras com base em técnicas de Deep Learning.
-
 ### Objetivos especificos
 - Montar dataset com imagens de folhas de goiabeira que sofreram ataque de psilidios;
 - Avaliar melhores técnicas para expansão de dataset;
