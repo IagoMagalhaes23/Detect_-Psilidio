@@ -1,4 +1,4 @@
-# Identificação de ataque de psilídos em goiabeiras com aprendizado pronfundo
+# Identificação de ataque de psilídos em goiabeiras com aprendizado pronfundo (Deep Learning)
 
 ## Introdução
 O seguinte projeto visa desenvolver um detector de objetos para identificação de ataque de psilidios em goiabeiras. Buscando identificar áreas atigindas (folhas) por estes insetos e classificar se ou ocorreu ou não ataque. Assim, será possível auxiliar produtores na identificação desta praga de forma automatizada.
