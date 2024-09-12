@@ -45,7 +45,7 @@ Avaliar desempenho dos modelos com base nas métricas:
 ## Resultados
 Colocar resultados aqui
 
-| Command | Description |
+| Modelo | Precision |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
